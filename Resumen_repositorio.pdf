@@ -1,0 +1,113 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1646 >>
+stream
+BT
+/F1 11 Tf
+50 800 Td
+14 TL
+(Resumen funcional del repositorio) Tj
+T*
+(Generado: 2026-03-10 17:47) Tj
+T*
+() Tj
+T*
+(Visin general:) Tj
+T*
+(- Archivos analizados: 9) Tj
+T*
+(- PDFs: 7) Tj
+T*
+(- DOCX: 1) Tj
+T*
+(- Tamao total aprox: 27016.7 KB) Tj
+T*
+() Tj
+T*
+(Detalle de archivos:) Tj
+T*
+(1. .gitkeep) Tj
+T*
+(   Tipo: Archivo | Tamao: 0.0 KB) Tj
+T*
+(2. 1- Comunicacin y registro.pdf) Tj
+T*
+(   Tipo: PDF | Tamao: 65.2 KB) Tj
+T*
+(   Pginas estimadas: 1) Tj
+T*
+(3. 1. Inspeccin. Aclaraciones Protocolo Prevencin de conductas suicidas.pdf) Tj
+T*
+(   Tipo: PDF | Tamao: 38.2 KB) Tj
+T*
+(   Pginas estimadas: 2) Tj
+T*
+(4. 2- Modelo Plan Individualizado de Prevencin y Proteccin.pdf) Tj
+T*
+(   Tipo: PDF | Tamao: 2718.0 KB) Tj
+T*
+(   Pginas estimadas: 13) Tj
+T*
+(5. 2. Anexos rellenables del Protocolo de actuacin para la prevencin del riesgo ante conductas suicidas o autolesiones del alumnado_Corr_Noviembre.docx) Tj
+T*
+(   Tipo: DOCX | Tamao: 75.7 KB) Tj
+T*
+(   Documento editable) Tj
+T*
+(6. Dossier GRxti-24.pdf) Tj
+T*
+(   Tipo: PDF | Tamao: 23014.1 KB) Tj
+T*
+(   Pginas estimadas: 51) Tj
+T*
+(7. Guia_del_protocolo_de_actuacion_para_la_prevencion.pdf) Tj
+T*
+(   Tipo: PDF | Tamao: 359.7 KB) Tj
+T*
+(   Pginas estimadas: 40) Tj
+T*
+(8. Infografia_del_protocolo_de_prevencion_de_conductas_suicidas_y_autoliticas.pdf) Tj
+T*
+(   Tipo: PDF | Tamao: 595.5 KB) Tj
+T*
+(   Pginas estimadas: 8) Tj
+T*
+(9. Resolucion_de_protocolo_de_prevencion_del_suicidio.pdf) Tj
+T*
+(   Tipo: PDF | Tamao: 150.4 KB) Tj
+T*
+(   Pginas estimadas: 20) Tj
+T*
+() Tj
+T*
+(Nota: Para regenerar este reporte ejecuta:) Tj
+T*
+(python generar_pdf_repositorio.py) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2009
+%%EOF
